@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/sikansi/Projeto/C#/Pong/Pong.csproj": {}
+  },
+  "projects": {
+    "/home/sikansi/Projeto/C#/Pong/Pong.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sikansi/Projeto/C#/Pong/Pong.csproj",
+        "projectName": "Pong",
+        "projectPath": "/home/sikansi/Projeto/C#/Pong/Pong.csproj",
+        "packagesPath": "/home/sikansi/.nuget/packages/",
+        "outputPath": "/home/sikansi/Projeto/C#/Pong/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sikansi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.6.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net4.6.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net4.6.1",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )",
+              "autoReferenced": true
+            },
+            "OpenTK": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.116/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

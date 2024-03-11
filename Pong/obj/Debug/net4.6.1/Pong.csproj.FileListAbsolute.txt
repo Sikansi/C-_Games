@@ -1,0 +1,13 @@
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net4.6.1/Pong.csproj.AssemblyReference.cache
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net4.6.1/Pong.csproj.SuggestedBindingRedirects.cache
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net4.6.1/Pong.GeneratedMSBuildEditorConfig.editorconfig
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net4.6.1/Pong.AssemblyInfoInputs.cache
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net4.6.1/Pong.AssemblyInfo.cs
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net4.6.1/Pong.csproj.CoreCompileInputs.cache
+/home/sikansi/Projeto/C#/Pong/bin/Debug/net4.6.1/Pong.exe.config
+/home/sikansi/Projeto/C#/Pong/bin/Debug/net4.6.1/Pong.exe
+/home/sikansi/Projeto/C#/Pong/bin/Debug/net4.6.1/Pong.pdb
+/home/sikansi/Projeto/C#/Pong/bin/Debug/net4.6.1/OpenTK.dll
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net4.6.1/Pong.csproj.CopyComplete
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net4.6.1/Pong.exe
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net4.6.1/Pong.pdb

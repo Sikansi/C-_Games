@@ -1,0 +1,17 @@
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net7.0/Pong.csproj.AssemblyReference.cache
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net7.0/Pong.GeneratedMSBuildEditorConfig.editorconfig
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net7.0/Pong.AssemblyInfoInputs.cache
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net7.0/Pong.AssemblyInfo.cs
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net7.0/Pong.csproj.CoreCompileInputs.cache
+/home/sikansi/Projeto/C#/Pong/bin/Debug/net7.0/Pong
+/home/sikansi/Projeto/C#/Pong/bin/Debug/net7.0/Pong.deps.json
+/home/sikansi/Projeto/C#/Pong/bin/Debug/net7.0/Pong.runtimeconfig.json
+/home/sikansi/Projeto/C#/Pong/bin/Debug/net7.0/Pong.dll
+/home/sikansi/Projeto/C#/Pong/bin/Debug/net7.0/Pong.pdb
+/home/sikansi/Projeto/C#/Pong/bin/Debug/net7.0/OpenTK.dll
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net7.0/Pong.csproj.CopyComplete
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net7.0/Pong.dll
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net7.0/refint/Pong.dll
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net7.0/Pong.pdb
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net7.0/Pong.genruntimeconfig.cache
+/home/sikansi/Projeto/C#/Pong/obj/Debug/net7.0/ref/Pong.dll
